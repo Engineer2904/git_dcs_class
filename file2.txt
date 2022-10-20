@@ -1,0 +1,3 @@
+git branch 
+git branch A /create new branch
+git checkout A /to move to this branch
